@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi here is octal 👋
+## 🌱 I’m currently learning AI and ICPC algorithm.
 <!--
 **octal-zhihao/octal-zhihao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![octal-zhihao's GitHub stats](https://github-readme-stats.vercel.app/api?username=octal-zhihao&include_all_commits=true&show_icons=true)
+![octal-zhihao's GitHub stats](https://github-readme-stats.vercel.app/api?username=octal-zhihao&include_all_commits=true&show_icons=true&theme=merko)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=octal-zhihao&layout=compact&hide=html,typescript,css,jupyter%20notebook,ruby&langs_count=8)
