@@ -1,4 +1,4 @@
-## Hi here is octal 👋
+## Hi here is octal 👋 | <img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=octal-zhihao.readme&left_text=%E6%B5%8F%E8%A7%88%E9%87%8F%20Visitors" /> 
 ## 🌱 I’m currently learning AI and ICPC algorithm.
 <img alt="octal's github chart" src="https://ghchart.rshah.org/octal-zhihao" />
 
