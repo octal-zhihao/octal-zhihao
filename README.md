@@ -1,5 +1,6 @@
 ## Hi here is octal 👋
 ## 🌱 I’m currently learning AI and ICPC algorithm.
+<img alt="octal's github chart" src="https://ghchart.rshah.org/octal-zhihao" />
 <!--
 **octal-zhihao/octal-zhihao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
