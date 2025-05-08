@@ -1,4 +1,4 @@
-## Hi here is octal 👋 | ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Foctal-zhihao&labelColor=%232ccce4&countColor=%2337d67a)
+## Hi, here is octal 👋 |
 ## 🌱 I’m currently learning AI and ICPC algorithm.
 <img alt="octal's github chart" src="https://ghchart.rshah.org/octal-zhihao" />
 
